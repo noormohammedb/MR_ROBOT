@@ -4,24 +4,24 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-color: #0c0022;
+    background-color: #610909;
     color: #faebd0;
 }
 #nav{
     padding: 10px 30px;
-    background-color: #130135;
+    background-color: #000000;
 }
 #ul{
     margin: 0px;
 }
 li{
-    color: #d89d9d;
+    color: #ffffff;
     display: inline;
     padding: 10px 22px;
     transition-duration: 0.3s;
 }
 li:hover{
-    color: #fff;
+    color: #610909;
     font-size: large;
     cursor: pointer;
 }
