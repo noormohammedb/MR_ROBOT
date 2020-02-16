@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'MrRobot';
+    src: url('./asset/MR-ROBOT.ttf');
+}
 *{
     box-sizing: border-box;
 }
@@ -10,12 +14,14 @@ body{
 #nav{
     padding: 10px 30px;
     background-color: #000000;
+    font-family: 'MrRobot';
 }
 #ul{
     margin: 0px;
 }
 li{
-    color: #ffffff;
+    color: #eb0101;
+    letter-spacing: 3px;
     display: inline;
     padding: 10px 22px;
     transition-duration: 0.3s;
@@ -41,8 +47,9 @@ li:hover{
     padding: 10px 40px;
 }
 #name-heading{
-    text-align: center;
-    font-family: 'Nunito', sans-serif;
+    width: 50%;
+    font-family: 'MrRobot';
+    letter-spacing: 4px;
 }
 #para{
     color: #f0093b;
@@ -52,4 +59,5 @@ footer{
     background-color: #1c0101;
     text-align: center;
     padding: 10px;
+    letter-spacing: 3px;
 }
