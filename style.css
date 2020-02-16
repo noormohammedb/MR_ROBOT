@@ -32,6 +32,9 @@ li:hover{
     cursor: pointer;
 }
 #main{
+    background-image: url(./asset/background.jpg);
+    background-size: 1600PX;
+    background-repeat: no-repeat;
     display: inline-block;
     height: 800px;
 }
