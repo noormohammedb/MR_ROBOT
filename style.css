@@ -32,8 +32,8 @@ li:hover{
     cursor: pointer;
 }
 #main{
-    background-image: url(./asset/background.jpg);
-    background-size: 1600PX;
+    background-image: url(./asset/background-high.jpg);
+    background-size: 100% 105%;
     background-repeat: no-repeat;
     display: inline-block;
     height: 800px;
@@ -41,13 +41,13 @@ li:hover{
 #left{
     width: 50%;
     float: left;
-    padding: 40px 10px 0 50px;
+    padding: 50px 10px 0 50px;
 }
 
 #right{
     width: 50%;
     float: left;
-    padding: 10px 40px;
+    padding: 60px 0 0 40px;
 }
 #name-heading{
     display: block;
