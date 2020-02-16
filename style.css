@@ -47,6 +47,8 @@ li:hover{
     padding: 10px 40px;
 }
 #name-heading{
+    display: block;
+    align: center;
     width: 50%;
     font-family: 'MrRobot';
     letter-spacing: 4px;
