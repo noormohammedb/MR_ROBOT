@@ -4,7 +4,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-color: #610909;
+    background-color: #2c0000;
     color: #faebd0;
 }
 #nav{
@@ -42,10 +42,11 @@ li:hover{
 }
 #name-heading{
     text-align: center;
+    font-family: 'Nunito', sans-serif;
 }
 #para{
     color: #f0093b;
-    
+    font-family: 'Nunito', sans-serif;
 }
 footer{
     background-color: #10022c;
