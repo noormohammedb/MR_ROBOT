@@ -29,6 +29,7 @@ li:hover{
 }
 #main{
     display: inline-block;
+    height: 800px;
 }
 #left{
     width: 50%;
@@ -45,6 +46,9 @@ li:hover{
     text-align: center;
 }
 #para{
-    color: aqua;
+    color: #0af3b9;
 }
-footer
+footer{
+    background-color: #10022c;
+    text-align: center;
+}
