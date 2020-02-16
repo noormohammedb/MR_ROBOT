@@ -24,8 +24,6 @@ li:hover{
     color: #fff;
     font-size: large;
     cursor: pointer;
-    padding: 10px 22px !important;
-
 }
 #main{
     display: inline-block;
@@ -34,7 +32,7 @@ li:hover{
 #left{
     width: 50%;
     float: left;
-    padding: 0px 10px 0 50px;
+    padding: 40px 10px 0 50px;
 }
 
 #right{
